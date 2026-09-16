@@ -18,3 +18,10 @@ print(my_list[-3:])
 
 for m in my_list:
     print(m)
+
+
+# Tuple
+my_tuple = (1, 2, 3, 4, 5)
+print(my_tuple, type(my_tuple))
+
+
