@@ -31,3 +31,7 @@ print(my_set, type(my_set))
 
 for s in my_set:
     print(s)
+
+# Dictionary
+my_dict = {'a': 1, 'b': 2, 'c': 3}
+print(my_dict, type(my_dict))
